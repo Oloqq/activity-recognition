@@ -1,0 +1,625 @@
+{
+    "KNeighborsClassifier-n_neighbors-1-weights-uniform-p-1": {
+        "min accuracy": 0.73,
+        "max accuracy": 0.73,
+        "mean accuracy": 0.73,
+        "standard deviation": 0.0,
+        "instances": 12
+    },
+    "KNeighborsClassifier-n_neighbors-1-weights-uniform-p-2": {
+        "min accuracy": 0.75,
+        "max accuracy": 0.75,
+        "mean accuracy": 0.75,
+        "standard deviation": 0.0,
+        "instances": 12
+    },
+    "KNeighborsClassifier-n_neighbors-1-weights-distance-p-1": {
+        "min accuracy": 0.73,
+        "max accuracy": 0.73,
+        "mean accuracy": 0.73,
+        "standard deviation": 0.0,
+        "instances": 12
+    },
+    "KNeighborsClassifier-n_neighbors-1-weights-distance-p-2": {
+        "min accuracy": 0.75,
+        "max accuracy": 0.75,
+        "mean accuracy": 0.75,
+        "standard deviation": 0.0,
+        "instances": 12
+    },
+    "KNeighborsClassifier-n_neighbors-2-weights-uniform-p-1": {
+        "min accuracy": 0.74,
+        "max accuracy": 0.74,
+        "mean accuracy": 0.74,
+        "standard deviation": 0.0,
+        "instances": 12
+    },
+    "KNeighborsClassifier-n_neighbors-2-weights-uniform-p-2": {
+        "min accuracy": 0.75,
+        "max accuracy": 0.75,
+        "mean accuracy": 0.75,
+        "standard deviation": 0.0,
+        "instances": 12
+    },
+    "KNeighborsClassifier-n_neighbors-2-weights-distance-p-1": {
+        "min accuracy": 0.73,
+        "max accuracy": 0.73,
+        "mean accuracy": 0.73,
+        "standard deviation": 0.0,
+        "instances": 12
+    },
+    "KNeighborsClassifier-n_neighbors-2-weights-distance-p-2": {
+        "min accuracy": 0.75,
+        "max accuracy": 0.75,
+        "mean accuracy": 0.75,
+        "standard deviation": 0.0,
+        "instances": 12
+    },
+    "KNeighborsClassifier-n_neighbors-3-weights-uniform-p-1": {
+        "min accuracy": 0.74,
+        "max accuracy": 0.74,
+        "mean accuracy": 0.74,
+        "standard deviation": 0.0,
+        "instances": 12
+    },
+    "KNeighborsClassifier-n_neighbors-3-weights-uniform-p-2": {
+        "min accuracy": 0.75,
+        "max accuracy": 0.75,
+        "mean accuracy": 0.75,
+        "standard deviation": 0.0,
+        "instances": 12
+    },
+    "KNeighborsClassifier-n_neighbors-3-weights-distance-p-1": {
+        "min accuracy": 0.74,
+        "max accuracy": 0.74,
+        "mean accuracy": 0.74,
+        "standard deviation": 0.0,
+        "instances": 12
+    },
+    "KNeighborsClassifier-n_neighbors-3-weights-distance-p-2": {
+        "min accuracy": 0.75,
+        "max accuracy": 0.75,
+        "mean accuracy": 0.75,
+        "standard deviation": 0.0,
+        "instances": 12
+    },
+    "KNeighborsClassifier-n_neighbors-10-weights-uniform-p-1": {
+        "min accuracy": 0.75,
+        "max accuracy": 0.75,
+        "mean accuracy": 0.75,
+        "standard deviation": 0.0,
+        "instances": 12
+    },
+    "KNeighborsClassifier-n_neighbors-10-weights-uniform-p-2": {
+        "min accuracy": 0.75,
+        "max accuracy": 0.75,
+        "mean accuracy": 0.75,
+        "standard deviation": 0.0,
+        "instances": 12
+    },
+    "KNeighborsClassifier-n_neighbors-10-weights-distance-p-1": {
+        "min accuracy": 0.74,
+        "max accuracy": 0.74,
+        "mean accuracy": 0.74,
+        "standard deviation": 0.0,
+        "instances": 12
+    },
+    "KNeighborsClassifier-n_neighbors-10-weights-distance-p-2": {
+        "min accuracy": 0.75,
+        "max accuracy": 0.75,
+        "mean accuracy": 0.75,
+        "standard deviation": 0.0,
+        "instances": 12
+    },
+    "SVC-kernel-linear-C-1": {
+        "min accuracy": 0.89,
+        "max accuracy": 0.89,
+        "mean accuracy": 0.89,
+        "standard deviation": 0.0,
+        "instances": 12
+    },
+    "SVC-kernel-linear-C-10": {
+        "min accuracy": 0.9,
+        "max accuracy": 0.9,
+        "mean accuracy": 0.9,
+        "standard deviation": 0.0,
+        "instances": 12
+    },
+    "SVC-kernel-linear-C-12": {
+        "min accuracy": 0.9,
+        "max accuracy": 0.9,
+        "mean accuracy": 0.9,
+        "standard deviation": 0.0,
+        "instances": 12
+    },
+    "SVC-kernel-linear-C-15": {
+        "min accuracy": 0.9,
+        "max accuracy": 0.9,
+        "mean accuracy": 0.9,
+        "standard deviation": 0.0,
+        "instances": 12
+    },
+    "SVC-kernel-linear-C-20": {
+        "min accuracy": 0.9,
+        "max accuracy": 0.9,
+        "mean accuracy": 0.9,
+        "standard deviation": 0.0,
+        "instances": 12
+    },
+    "SVC-kernel-rbf-C-1": {
+        "min accuracy": 0.74,
+        "max accuracy": 0.74,
+        "mean accuracy": 0.74,
+        "standard deviation": 0.0,
+        "instances": 12
+    },
+    "SVC-kernel-rbf-C-10": {
+        "min accuracy": 0.74,
+        "max accuracy": 0.74,
+        "mean accuracy": 0.74,
+        "standard deviation": 0.0,
+        "instances": 12
+    },
+    "SVC-kernel-rbf-C-12": {
+        "min accuracy": 0.74,
+        "max accuracy": 0.74,
+        "mean accuracy": 0.74,
+        "standard deviation": 0.0,
+        "instances": 12
+    },
+    "SVC-kernel-rbf-C-15": {
+        "min accuracy": 0.74,
+        "max accuracy": 0.74,
+        "mean accuracy": 0.74,
+        "standard deviation": 0.0,
+        "instances": 12
+    },
+    "SVC-kernel-rbf-C-20": {
+        "min accuracy": 0.75,
+        "max accuracy": 0.75,
+        "mean accuracy": 0.75,
+        "standard deviation": 0.0,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-2-min_samples_split-2-criterion-gini-splitter-random": {
+        "min accuracy": 0.38,
+        "max accuracy": 0.72,
+        "mean accuracy": 0.57,
+        "standard deviation": 0.14,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-2-min_samples_split-2-criterion-entropy-splitter-random": {
+        "min accuracy": 0.37,
+        "max accuracy": 0.73,
+        "mean accuracy": 0.57,
+        "standard deviation": 0.13,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-2-min_samples_split-2-criterion-log_loss-splitter-random": {
+        "min accuracy": 0.36,
+        "max accuracy": 0.74,
+        "mean accuracy": 0.63,
+        "standard deviation": 0.15,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-2-min_samples_split-4-criterion-gini-splitter-random": {
+        "min accuracy": 0.45,
+        "max accuracy": 0.73,
+        "mean accuracy": 0.63,
+        "standard deviation": 0.08,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-2-min_samples_split-4-criterion-entropy-splitter-random": {
+        "min accuracy": 0.36,
+        "max accuracy": 0.72,
+        "mean accuracy": 0.61,
+        "standard deviation": 0.14,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-2-min_samples_split-4-criterion-log_loss-splitter-random": {
+        "min accuracy": 0.35,
+        "max accuracy": 0.74,
+        "mean accuracy": 0.67,
+        "standard deviation": 0.12,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-2-min_samples_split-6-criterion-gini-splitter-random": {
+        "min accuracy": 0.4,
+        "max accuracy": 0.73,
+        "mean accuracy": 0.64,
+        "standard deviation": 0.12,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-2-min_samples_split-6-criterion-entropy-splitter-random": {
+        "min accuracy": 0.32,
+        "max accuracy": 0.74,
+        "mean accuracy": 0.57,
+        "standard deviation": 0.16,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-2-min_samples_split-6-criterion-log_loss-splitter-random": {
+        "min accuracy": 0.36,
+        "max accuracy": 0.74,
+        "mean accuracy": 0.53,
+        "standard deviation": 0.17,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-5-min_samples_split-2-criterion-gini-splitter-random": {
+        "min accuracy": 0.54,
+        "max accuracy": 0.68,
+        "mean accuracy": 0.63,
+        "standard deviation": 0.04,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-5-min_samples_split-2-criterion-entropy-splitter-random": {
+        "min accuracy": 0.53,
+        "max accuracy": 0.73,
+        "mean accuracy": 0.61,
+        "standard deviation": 0.06,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-5-min_samples_split-2-criterion-log_loss-splitter-random": {
+        "min accuracy": 0.52,
+        "max accuracy": 0.72,
+        "mean accuracy": 0.58,
+        "standard deviation": 0.06,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-5-min_samples_split-4-criterion-gini-splitter-random": {
+        "min accuracy": 0.51,
+        "max accuracy": 0.69,
+        "mean accuracy": 0.61,
+        "standard deviation": 0.05,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-5-min_samples_split-4-criterion-entropy-splitter-random": {
+        "min accuracy": 0.5,
+        "max accuracy": 0.65,
+        "mean accuracy": 0.59,
+        "standard deviation": 0.04,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-5-min_samples_split-4-criterion-log_loss-splitter-random": {
+        "min accuracy": 0.57,
+        "max accuracy": 0.77,
+        "mean accuracy": 0.65,
+        "standard deviation": 0.06,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-5-min_samples_split-6-criterion-gini-splitter-random": {
+        "min accuracy": 0.55,
+        "max accuracy": 0.75,
+        "mean accuracy": 0.65,
+        "standard deviation": 0.06,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-5-min_samples_split-6-criterion-entropy-splitter-random": {
+        "min accuracy": 0.52,
+        "max accuracy": 0.7,
+        "mean accuracy": 0.63,
+        "standard deviation": 0.06,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-5-min_samples_split-6-criterion-log_loss-splitter-random": {
+        "min accuracy": 0.53,
+        "max accuracy": 0.71,
+        "mean accuracy": 0.59,
+        "standard deviation": 0.05,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-8-min_samples_split-2-criterion-gini-splitter-random": {
+        "min accuracy": 0.59,
+        "max accuracy": 0.76,
+        "mean accuracy": 0.67,
+        "standard deviation": 0.05,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-8-min_samples_split-2-criterion-entropy-splitter-random": {
+        "min accuracy": 0.55,
+        "max accuracy": 0.84,
+        "mean accuracy": 0.68,
+        "standard deviation": 0.07,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-8-min_samples_split-2-criterion-log_loss-splitter-random": {
+        "min accuracy": 0.62,
+        "max accuracy": 0.81,
+        "mean accuracy": 0.71,
+        "standard deviation": 0.07,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-8-min_samples_split-4-criterion-gini-splitter-random": {
+        "min accuracy": 0.61,
+        "max accuracy": 0.79,
+        "mean accuracy": 0.68,
+        "standard deviation": 0.05,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-8-min_samples_split-4-criterion-entropy-splitter-random": {
+        "min accuracy": 0.58,
+        "max accuracy": 0.81,
+        "mean accuracy": 0.68,
+        "standard deviation": 0.07,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-8-min_samples_split-4-criterion-log_loss-splitter-random": {
+        "min accuracy": 0.54,
+        "max accuracy": 0.8,
+        "mean accuracy": 0.68,
+        "standard deviation": 0.08,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-8-min_samples_split-6-criterion-gini-splitter-random": {
+        "min accuracy": 0.59,
+        "max accuracy": 0.8,
+        "mean accuracy": 0.69,
+        "standard deviation": 0.06,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-8-min_samples_split-6-criterion-entropy-splitter-random": {
+        "min accuracy": 0.56,
+        "max accuracy": 0.83,
+        "mean accuracy": 0.68,
+        "standard deviation": 0.08,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-8-min_samples_split-6-criterion-log_loss-splitter-random": {
+        "min accuracy": 0.58,
+        "max accuracy": 0.82,
+        "mean accuracy": 0.68,
+        "standard deviation": 0.07,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-12-min_samples_split-2-criterion-gini-splitter-random": {
+        "min accuracy": 0.59,
+        "max accuracy": 0.78,
+        "mean accuracy": 0.69,
+        "standard deviation": 0.06,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-12-min_samples_split-2-criterion-entropy-splitter-random": {
+        "min accuracy": 0.6,
+        "max accuracy": 0.8,
+        "mean accuracy": 0.71,
+        "standard deviation": 0.06,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-12-min_samples_split-2-criterion-log_loss-splitter-random": {
+        "min accuracy": 0.59,
+        "max accuracy": 0.8,
+        "mean accuracy": 0.7,
+        "standard deviation": 0.06,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-12-min_samples_split-4-criterion-gini-splitter-random": {
+        "min accuracy": 0.61,
+        "max accuracy": 0.82,
+        "mean accuracy": 0.71,
+        "standard deviation": 0.06,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-12-min_samples_split-4-criterion-entropy-splitter-random": {
+        "min accuracy": 0.59,
+        "max accuracy": 0.78,
+        "mean accuracy": 0.66,
+        "standard deviation": 0.06,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-12-min_samples_split-4-criterion-log_loss-splitter-random": {
+        "min accuracy": 0.58,
+        "max accuracy": 0.77,
+        "mean accuracy": 0.69,
+        "standard deviation": 0.05,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-12-min_samples_split-6-criterion-gini-splitter-random": {
+        "min accuracy": 0.56,
+        "max accuracy": 0.82,
+        "mean accuracy": 0.67,
+        "standard deviation": 0.09,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-12-min_samples_split-6-criterion-entropy-splitter-random": {
+        "min accuracy": 0.59,
+        "max accuracy": 0.78,
+        "mean accuracy": 0.67,
+        "standard deviation": 0.06,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-12-min_samples_split-6-criterion-log_loss-splitter-random": {
+        "min accuracy": 0.62,
+        "max accuracy": 0.72,
+        "mean accuracy": 0.67,
+        "standard deviation": 0.03,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-13-min_samples_split-2-criterion-gini-splitter-random": {
+        "min accuracy": 0.62,
+        "max accuracy": 0.76,
+        "mean accuracy": 0.69,
+        "standard deviation": 0.04,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-13-min_samples_split-2-criterion-entropy-splitter-random": {
+        "min accuracy": 0.61,
+        "max accuracy": 0.79,
+        "mean accuracy": 0.68,
+        "standard deviation": 0.05,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-13-min_samples_split-2-criterion-log_loss-splitter-random": {
+        "min accuracy": 0.61,
+        "max accuracy": 0.8,
+        "mean accuracy": 0.68,
+        "standard deviation": 0.06,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-13-min_samples_split-4-criterion-gini-splitter-random": {
+        "min accuracy": 0.54,
+        "max accuracy": 0.76,
+        "mean accuracy": 0.67,
+        "standard deviation": 0.07,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-13-min_samples_split-4-criterion-entropy-splitter-random": {
+        "min accuracy": 0.59,
+        "max accuracy": 0.76,
+        "mean accuracy": 0.7,
+        "standard deviation": 0.05,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-13-min_samples_split-4-criterion-log_loss-splitter-random": {
+        "min accuracy": 0.59,
+        "max accuracy": 0.72,
+        "mean accuracy": 0.66,
+        "standard deviation": 0.04,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-13-min_samples_split-6-criterion-gini-splitter-random": {
+        "min accuracy": 0.61,
+        "max accuracy": 0.8,
+        "mean accuracy": 0.69,
+        "standard deviation": 0.05,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-13-min_samples_split-6-criterion-entropy-splitter-random": {
+        "min accuracy": 0.59,
+        "max accuracy": 0.84,
+        "mean accuracy": 0.69,
+        "standard deviation": 0.07,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-13-min_samples_split-6-criterion-log_loss-splitter-random": {
+        "min accuracy": 0.6,
+        "max accuracy": 0.82,
+        "mean accuracy": 0.68,
+        "standard deviation": 0.07,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-14-min_samples_split-2-criterion-gini-splitter-random": {
+        "min accuracy": 0.59,
+        "max accuracy": 0.86,
+        "mean accuracy": 0.7,
+        "standard deviation": 0.07,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-14-min_samples_split-2-criterion-entropy-splitter-random": {
+        "min accuracy": 0.58,
+        "max accuracy": 0.69,
+        "mean accuracy": 0.65,
+        "standard deviation": 0.03,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-14-min_samples_split-2-criterion-log_loss-splitter-random": {
+        "min accuracy": 0.56,
+        "max accuracy": 0.74,
+        "mean accuracy": 0.65,
+        "standard deviation": 0.05,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-14-min_samples_split-4-criterion-gini-splitter-random": {
+        "min accuracy": 0.61,
+        "max accuracy": 0.82,
+        "mean accuracy": 0.69,
+        "standard deviation": 0.06,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-14-min_samples_split-4-criterion-entropy-splitter-random": {
+        "min accuracy": 0.59,
+        "max accuracy": 0.8,
+        "mean accuracy": 0.68,
+        "standard deviation": 0.06,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-14-min_samples_split-4-criterion-log_loss-splitter-random": {
+        "min accuracy": 0.6,
+        "max accuracy": 0.79,
+        "mean accuracy": 0.69,
+        "standard deviation": 0.06,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-14-min_samples_split-6-criterion-gini-splitter-random": {
+        "min accuracy": 0.64,
+        "max accuracy": 0.79,
+        "mean accuracy": 0.7,
+        "standard deviation": 0.05,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-14-min_samples_split-6-criterion-entropy-splitter-random": {
+        "min accuracy": 0.6,
+        "max accuracy": 0.76,
+        "mean accuracy": 0.69,
+        "standard deviation": 0.06,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-14-min_samples_split-6-criterion-log_loss-splitter-random": {
+        "min accuracy": 0.59,
+        "max accuracy": 0.78,
+        "mean accuracy": 0.68,
+        "standard deviation": 0.05,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-15-min_samples_split-2-criterion-gini-splitter-random": {
+        "min accuracy": 0.57,
+        "max accuracy": 0.78,
+        "mean accuracy": 0.69,
+        "standard deviation": 0.06,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-15-min_samples_split-2-criterion-entropy-splitter-random": {
+        "min accuracy": 0.59,
+        "max accuracy": 0.77,
+        "mean accuracy": 0.68,
+        "standard deviation": 0.05,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-15-min_samples_split-2-criterion-log_loss-splitter-random": {
+        "min accuracy": 0.59,
+        "max accuracy": 0.79,
+        "mean accuracy": 0.71,
+        "standard deviation": 0.06,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-15-min_samples_split-4-criterion-gini-splitter-random": {
+        "min accuracy": 0.61,
+        "max accuracy": 0.79,
+        "mean accuracy": 0.68,
+        "standard deviation": 0.05,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-15-min_samples_split-4-criterion-entropy-splitter-random": {
+        "min accuracy": 0.6,
+        "max accuracy": 0.72,
+        "mean accuracy": 0.66,
+        "standard deviation": 0.03,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-15-min_samples_split-4-criterion-log_loss-splitter-random": {
+        "min accuracy": 0.53,
+        "max accuracy": 0.82,
+        "mean accuracy": 0.69,
+        "standard deviation": 0.08,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-15-min_samples_split-6-criterion-gini-splitter-random": {
+        "min accuracy": 0.6,
+        "max accuracy": 0.81,
+        "mean accuracy": 0.69,
+        "standard deviation": 0.07,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-15-min_samples_split-6-criterion-entropy-splitter-random": {
+        "min accuracy": 0.59,
+        "max accuracy": 0.81,
+        "mean accuracy": 0.69,
+        "standard deviation": 0.07,
+        "instances": 12
+    },
+    "DecisionTreeClassifier-max_depth-15-min_samples_split-6-criterion-log_loss-splitter-random": {
+        "min accuracy": 0.62,
+        "max accuracy": 0.73,
+        "mean accuracy": 0.68,
+        "standard deviation": 0.03,
+        "instances": 12
+    }
+}

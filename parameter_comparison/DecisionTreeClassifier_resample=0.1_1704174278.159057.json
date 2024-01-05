@@ -1,0 +1,632 @@
+[
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 2,
+            "min_samples_split": 2,
+            "criterion": "gini",
+            "splitter": "random"
+        },
+        "accuracy": 0.38155339805825245
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 2,
+            "min_samples_split": 2,
+            "criterion": "entropy",
+            "splitter": "random"
+        },
+        "accuracy": 0.7340614886731391
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 2,
+            "min_samples_split": 2,
+            "criterion": "log_loss",
+            "splitter": "random"
+        },
+        "accuracy": 0.7381877022653721
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 2,
+            "min_samples_split": 4,
+            "criterion": "gini",
+            "splitter": "random"
+        },
+        "accuracy": 0.6601132686084142
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 2,
+            "min_samples_split": 4,
+            "criterion": "entropy",
+            "splitter": "random"
+        },
+        "accuracy": 0.7234088457389428
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 2,
+            "min_samples_split": 4,
+            "criterion": "log_loss",
+            "splitter": "random"
+        },
+        "accuracy": 0.7387001078748652
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 2,
+            "min_samples_split": 6,
+            "criterion": "gini",
+            "splitter": "random"
+        },
+        "accuracy": 0.672923408845739
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 2,
+            "min_samples_split": 6,
+            "criterion": "entropy",
+            "splitter": "random"
+        },
+        "accuracy": 0.7399137001078748
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 2,
+            "min_samples_split": 6,
+            "criterion": "log_loss",
+            "splitter": "random"
+        },
+        "accuracy": 0.38160733549083065
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 5,
+            "min_samples_split": 2,
+            "criterion": "gini",
+            "splitter": "random"
+        },
+        "accuracy": 0.6699029126213593
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 5,
+            "min_samples_split": 2,
+            "criterion": "entropy",
+            "splitter": "random"
+        },
+        "accuracy": 0.6622977346278317
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 5,
+            "min_samples_split": 2,
+            "criterion": "log_loss",
+            "splitter": "random"
+        },
+        "accuracy": 0.5258899676375405
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 5,
+            "min_samples_split": 4,
+            "criterion": "gini",
+            "splitter": "random"
+        },
+        "accuracy": 0.6486785329018339
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 5,
+            "min_samples_split": 4,
+            "criterion": "entropy",
+            "splitter": "random"
+        },
+        "accuracy": 0.5903991370010787
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 5,
+            "min_samples_split": 4,
+            "criterion": "log_loss",
+            "splitter": "random"
+        },
+        "accuracy": 0.5676914778856527
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 5,
+            "min_samples_split": 6,
+            "criterion": "gini",
+            "splitter": "random"
+        },
+        "accuracy": 0.6179881337648327
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 5,
+            "min_samples_split": 6,
+            "criterion": "entropy",
+            "splitter": "random"
+        },
+        "accuracy": 0.7038295577130529
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 5,
+            "min_samples_split": 6,
+            "criterion": "log_loss",
+            "splitter": "random"
+        },
+        "accuracy": 0.6411003236245955
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 8,
+            "min_samples_split": 2,
+            "criterion": "gini",
+            "splitter": "random"
+        },
+        "accuracy": 0.7349244875943906
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 8,
+            "min_samples_split": 2,
+            "criterion": "entropy",
+            "splitter": "random"
+        },
+        "accuracy": 0.640453074433657
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 8,
+            "min_samples_split": 2,
+            "criterion": "log_loss",
+            "splitter": "random"
+        },
+        "accuracy": 0.6226537216828479
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 8,
+            "min_samples_split": 4,
+            "criterion": "gini",
+            "splitter": "random"
+        },
+        "accuracy": 0.7901833872707659
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 8,
+            "min_samples_split": 4,
+            "criterion": "entropy",
+            "splitter": "random"
+        },
+        "accuracy": 0.720091693635383
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 8,
+            "min_samples_split": 4,
+            "criterion": "log_loss",
+            "splitter": "random"
+        },
+        "accuracy": 0.7823624595469255
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 8,
+            "min_samples_split": 6,
+            "criterion": "gini",
+            "splitter": "random"
+        },
+        "accuracy": 0.7959277238403452
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 8,
+            "min_samples_split": 6,
+            "criterion": "entropy",
+            "splitter": "random"
+        },
+        "accuracy": 0.6299892125134844
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 8,
+            "min_samples_split": 6,
+            "criterion": "log_loss",
+            "splitter": "random"
+        },
+        "accuracy": 0.6088727076591154
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 12,
+            "min_samples_split": 2,
+            "criterion": "gini",
+            "splitter": "random"
+        },
+        "accuracy": 0.6442826321467098
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 12,
+            "min_samples_split": 2,
+            "criterion": "entropy",
+            "splitter": "random"
+        },
+        "accuracy": 0.8028047464940669
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 12,
+            "min_samples_split": 2,
+            "criterion": "log_loss",
+            "splitter": "random"
+        },
+        "accuracy": 0.6571736785329019
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 12,
+            "min_samples_split": 4,
+            "criterion": "gini",
+            "splitter": "random"
+        },
+        "accuracy": 0.7971143473570658
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 12,
+            "min_samples_split": 4,
+            "criterion": "entropy",
+            "splitter": "random"
+        },
+        "accuracy": 0.5911003236245954
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 12,
+            "min_samples_split": 4,
+            "criterion": "log_loss",
+            "splitter": "random"
+        },
+        "accuracy": 0.5761596548004315
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 12,
+            "min_samples_split": 6,
+            "criterion": "gini",
+            "splitter": "random"
+        },
+        "accuracy": 0.639967637540453
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 12,
+            "min_samples_split": 6,
+            "criterion": "entropy",
+            "splitter": "random"
+        },
+        "accuracy": 0.5850053937432578
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 12,
+            "min_samples_split": 6,
+            "criterion": "log_loss",
+            "splitter": "random"
+        },
+        "accuracy": 0.720631067961165
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 13,
+            "min_samples_split": 2,
+            "criterion": "gini",
+            "splitter": "random"
+        },
+        "accuracy": 0.6660463861920173
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 13,
+            "min_samples_split": 2,
+            "criterion": "entropy",
+            "splitter": "random"
+        },
+        "accuracy": 0.6771035598705502
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 13,
+            "min_samples_split": 2,
+            "criterion": "log_loss",
+            "splitter": "random"
+        },
+        "accuracy": 0.6106526429341963
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 13,
+            "min_samples_split": 4,
+            "criterion": "gini",
+            "splitter": "random"
+        },
+        "accuracy": 0.544336569579288
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 13,
+            "min_samples_split": 4,
+            "criterion": "entropy",
+            "splitter": "random"
+        },
+        "accuracy": 0.6920981661272924
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 13,
+            "min_samples_split": 4,
+            "criterion": "log_loss",
+            "splitter": "random"
+        },
+        "accuracy": 0.6546655879180151
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 13,
+            "min_samples_split": 6,
+            "criterion": "gini",
+            "splitter": "random"
+        },
+        "accuracy": 0.6066882416396979
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 13,
+            "min_samples_split": 6,
+            "criterion": "entropy",
+            "splitter": "random"
+        },
+        "accuracy": 0.699730312837109
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 13,
+            "min_samples_split": 6,
+            "criterion": "log_loss",
+            "splitter": "random"
+        },
+        "accuracy": 0.6367044228694714
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 14,
+            "min_samples_split": 2,
+            "criterion": "gini",
+            "splitter": "random"
+        },
+        "accuracy": 0.7303128371089536
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 14,
+            "min_samples_split": 2,
+            "criterion": "entropy",
+            "splitter": "random"
+        },
+        "accuracy": 0.6831984897518878
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 14,
+            "min_samples_split": 2,
+            "criterion": "log_loss",
+            "splitter": "random"
+        },
+        "accuracy": 0.6584681769147789
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 14,
+            "min_samples_split": 4,
+            "criterion": "gini",
+            "splitter": "random"
+        },
+        "accuracy": 0.6119471413160733
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 14,
+            "min_samples_split": 4,
+            "criterion": "entropy",
+            "splitter": "random"
+        },
+        "accuracy": 0.6928263214670982
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 14,
+            "min_samples_split": 4,
+            "criterion": "log_loss",
+            "splitter": "random"
+        },
+        "accuracy": 0.613646170442287
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 14,
+            "min_samples_split": 6,
+            "criterion": "gini",
+            "splitter": "random"
+        },
+        "accuracy": 0.7056364617044228
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 14,
+            "min_samples_split": 6,
+            "criterion": "entropy",
+            "splitter": "random"
+        },
+        "accuracy": 0.7367853290183387
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 14,
+            "min_samples_split": 6,
+            "criterion": "log_loss",
+            "splitter": "random"
+        },
+        "accuracy": 0.6834412081984897
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 15,
+            "min_samples_split": 2,
+            "criterion": "gini",
+            "splitter": "random"
+        },
+        "accuracy": 0.6434735706580367
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 15,
+            "min_samples_split": 2,
+            "criterion": "entropy",
+            "splitter": "random"
+        },
+        "accuracy": 0.6364617044228694
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 15,
+            "min_samples_split": 2,
+            "criterion": "log_loss",
+            "splitter": "random"
+        },
+        "accuracy": 0.7370550161812298
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 15,
+            "min_samples_split": 4,
+            "criterion": "gini",
+            "splitter": "random"
+        },
+        "accuracy": 0.6619741100323625
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 15,
+            "min_samples_split": 4,
+            "criterion": "entropy",
+            "splitter": "random"
+        },
+        "accuracy": 0.6737864077669903
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 15,
+            "min_samples_split": 4,
+            "criterion": "log_loss",
+            "splitter": "random"
+        },
+        "accuracy": 0.6380528586839267
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 15,
+            "min_samples_split": 6,
+            "criterion": "gini",
+            "splitter": "random"
+        },
+        "accuracy": 0.6369471413160733
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 15,
+            "min_samples_split": 6,
+            "criterion": "entropy",
+            "splitter": "random"
+        },
+        "accuracy": 0.6742718446601942
+    },
+    {
+        "classifier": "DecisionTreeClassifier",
+        "params": {
+            "max_depth": 15,
+            "min_samples_split": 6,
+            "criterion": "log_loss",
+            "splitter": "random"
+        },
+        "accuracy": 0.6972491909385113
+    }
+]

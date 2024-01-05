@@ -1,0 +1,69 @@
+\begin{tabular}{|c|c|c|c|c|c|c|c|}
+\hline
+max depth & min samples split & criterion & splitter & min accuracy & max accuracy & mean accuracy & std deviation \\
+\hline
+2 & 2 & gini & random & 0.38 & 0.72 & 0.57 & 0.14 \\
+2 & 2 & entropy & random & 0.37 & 0.73 & 0.57 & 0.13 \\
+2 & 2 & log loss & random & 0.36 & 0.74 & 0.63 & 0.15 \\
+2 & 4 & gini & random & 0.45 & 0.73 & 0.63 & 0.08 \\
+2 & 4 & entropy & random & 0.36 & 0.72 & 0.61 & 0.14 \\
+2 & 4 & log loss & random & 0.35 & 0.74 & 0.67 & 0.12 \\
+2 & 6 & gini & random & 0.4 & 0.73 & 0.64 & 0.12 \\
+2 & 6 & entropy & random & 0.32 & 0.74 & 0.57 & 0.16 \\
+2 & 6 & log loss & random & 0.36 & 0.74 & 0.53 & 0.17 \\
+5 & 2 & gini & random & 0.54 & 0.68 & 0.63 & 0.04 \\
+5 & 2 & entropy & random & 0.53 & 0.73 & 0.61 & 0.06 \\
+5 & 2 & log loss & random & 0.52 & 0.72 & 0.58 & 0.06 \\
+5 & 4 & gini & random & 0.51 & 0.69 & 0.61 & 0.05 \\
+5 & 4 & entropy & random & 0.5 & 0.65 & 0.59 & 0.04 \\
+5 & 4 & log loss & random & 0.57 & 0.77 & 0.65 & 0.06 \\
+5 & 6 & gini & random & 0.55 & 0.75 & 0.65 & 0.06 \\
+5 & 6 & entropy & random & 0.52 & 0.7 & 0.63 & 0.06 \\
+5 & 6 & log loss & random & 0.53 & 0.71 & 0.59 & 0.05 \\
+8 & 2 & gini & random & 0.59 & 0.76 & 0.67 & 0.05 \\
+8 & 2 & entropy & random & 0.55 & 0.84 & 0.68 & 0.07 \\
+8 & 2 & log loss & random & 0.62 & 0.81 & 0.71 & 0.07 \\
+8 & 4 & gini & random & 0.61 & 0.79 & 0.68 & 0.05 \\
+8 & 4 & entropy & random & 0.58 & 0.81 & 0.68 & 0.07 \\
+8 & 4 & log loss & random & 0.54 & 0.8 & 0.68 & 0.08 \\
+8 & 6 & gini & random & 0.59 & 0.8 & 0.69 & 0.06 \\
+8 & 6 & entropy & random & 0.56 & 0.83 & 0.68 & 0.08 \\
+8 & 6 & log loss & random & 0.58 & 0.82 & 0.68 & 0.07 \\
+12 & 2 & gini & random & 0.59 & 0.78 & 0.69 & 0.06 \\
+12 & 2 & entropy & random & 0.6 & 0.8 & 0.71 & 0.06 \\
+12 & 2 & log loss & random & 0.59 & 0.8 & 0.7 & 0.06 \\
+12 & 4 & gini & random & 0.61 & 0.82 & 0.71 & 0.06 \\
+12 & 4 & entropy & random & 0.59 & 0.78 & 0.66 & 0.06 \\
+12 & 4 & log loss & random & 0.58 & 0.77 & 0.69 & 0.05 \\
+12 & 6 & gini & random & 0.56 & 0.82 & 0.67 & 0.09 \\
+12 & 6 & entropy & random & 0.59 & 0.78 & 0.67 & 0.06 \\
+12 & 6 & log loss & random & 0.62 & 0.72 & 0.67 & 0.03 \\
+13 & 2 & gini & random & 0.62 & 0.76 & 0.69 & 0.04 \\
+13 & 2 & entropy & random & 0.61 & 0.79 & 0.68 & 0.05 \\
+13 & 2 & log loss & random & 0.61 & 0.8 & 0.68 & 0.06 \\
+13 & 4 & gini & random & 0.54 & 0.76 & 0.67 & 0.07 \\
+13 & 4 & entropy & random & 0.59 & 0.76 & 0.7 & 0.05 \\
+13 & 4 & log loss & random & 0.59 & 0.72 & 0.66 & 0.04 \\
+13 & 6 & gini & random & 0.61 & 0.8 & 0.69 & 0.05 \\
+13 & 6 & entropy & random & 0.59 & 0.84 & 0.69 & 0.07 \\
+13 & 6 & log loss & random & 0.6 & 0.82 & 0.68 & 0.07 \\
+14 & 2 & gini & random & 0.59 & 0.86 & 0.7 & 0.07 \\
+14 & 2 & entropy & random & 0.58 & 0.69 & 0.65 & 0.03 \\
+14 & 2 & log loss & random & 0.56 & 0.74 & 0.65 & 0.05 \\
+14 & 4 & gini & random & 0.61 & 0.82 & 0.69 & 0.06 \\
+14 & 4 & entropy & random & 0.59 & 0.8 & 0.68 & 0.06 \\
+14 & 4 & log loss & random & 0.6 & 0.79 & 0.69 & 0.06 \\
+14 & 6 & gini & random & 0.64 & 0.79 & 0.7 & 0.05 \\
+14 & 6 & entropy & random & 0.6 & 0.76 & 0.69 & 0.06 \\
+14 & 6 & log loss & random & 0.59 & 0.78 & 0.68 & 0.05 \\
+15 & 2 & gini & random & 0.57 & 0.78 & 0.69 & 0.06 \\
+15 & 2 & entropy & random & 0.59 & 0.77 & 0.68 & 0.05 \\
+15 & 2 & log loss & random & 0.59 & 0.79 & 0.71 & 0.06 \\
+15 & 4 & gini & random & 0.61 & 0.79 & 0.68 & 0.05 \\
+15 & 4 & entropy & random & 0.6 & 0.72 & 0.66 & 0.03 \\
+15 & 4 & log loss & random & 0.53 & 0.82 & 0.69 & 0.08 \\
+15 & 6 & gini & random & 0.6 & 0.81 & 0.69 & 0.07 \\
+15 & 6 & entropy & random & 0.59 & 0.81 & 0.69 & 0.07 \\
+15 & 6 & log loss & random & 0.62 & 0.73 & 0.68 & 0.03 \\
+\hline
+\end{tabular}

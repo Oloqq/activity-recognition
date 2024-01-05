@@ -1,0 +1,146 @@
+[
+    {
+        "classifier": "KNeighborsClassifier",
+        "params": {
+            "n_neighbors": 1,
+            "weights": "uniform",
+            "p": 1
+        },
+        "accuracy": 0.7256472491909385
+    },
+    {
+        "classifier": "KNeighborsClassifier",
+        "params": {
+            "n_neighbors": 1,
+            "weights": "uniform",
+            "p": 2
+        },
+        "accuracy": 0.745361380798274
+    },
+    {
+        "classifier": "KNeighborsClassifier",
+        "params": {
+            "n_neighbors": 1,
+            "weights": "distance",
+            "p": 1
+        },
+        "accuracy": 0.7256472491909385
+    },
+    {
+        "classifier": "KNeighborsClassifier",
+        "params": {
+            "n_neighbors": 1,
+            "weights": "distance",
+            "p": 2
+        },
+        "accuracy": 0.745361380798274
+    },
+    {
+        "classifier": "KNeighborsClassifier",
+        "params": {
+            "n_neighbors": 2,
+            "weights": "uniform",
+            "p": 1
+        },
+        "accuracy": 0.7365695792880259
+    },
+    {
+        "classifier": "KNeighborsClassifier",
+        "params": {
+            "n_neighbors": 2,
+            "weights": "uniform",
+            "p": 2
+        },
+        "accuracy": 0.7477346278317152
+    },
+    {
+        "classifier": "KNeighborsClassifier",
+        "params": {
+            "n_neighbors": 2,
+            "weights": "distance",
+            "p": 1
+        },
+        "accuracy": 0.7256472491909385
+    },
+    {
+        "classifier": "KNeighborsClassifier",
+        "params": {
+            "n_neighbors": 2,
+            "weights": "distance",
+            "p": 2
+        },
+        "accuracy": 0.745361380798274
+    },
+    {
+        "classifier": "KNeighborsClassifier",
+        "params": {
+            "n_neighbors": 3,
+            "weights": "uniform",
+            "p": 1
+        },
+        "accuracy": 0.7355447680690399
+    },
+    {
+        "classifier": "KNeighborsClassifier",
+        "params": {
+            "n_neighbors": 3,
+            "weights": "uniform",
+            "p": 2
+        },
+        "accuracy": 0.7474919093851132
+    },
+    {
+        "classifier": "KNeighborsClassifier",
+        "params": {
+            "n_neighbors": 3,
+            "weights": "distance",
+            "p": 1
+        },
+        "accuracy": 0.7355447680690399
+    },
+    {
+        "classifier": "KNeighborsClassifier",
+        "params": {
+            "n_neighbors": 3,
+            "weights": "distance",
+            "p": 2
+        },
+        "accuracy": 0.7474919093851132
+    },
+    {
+        "classifier": "KNeighborsClassifier",
+        "params": {
+            "n_neighbors": 10,
+            "weights": "uniform",
+            "p": 1
+        },
+        "accuracy": 0.7481661272923409
+    },
+    {
+        "classifier": "KNeighborsClassifier",
+        "params": {
+            "n_neighbors": 10,
+            "weights": "uniform",
+            "p": 2
+        },
+        "accuracy": 0.75
+    },
+    {
+        "classifier": "KNeighborsClassifier",
+        "params": {
+            "n_neighbors": 10,
+            "weights": "distance",
+            "p": 1
+        },
+        "accuracy": 0.7449838187702266
+    },
+    {
+        "classifier": "KNeighborsClassifier",
+        "params": {
+            "n_neighbors": 10,
+            "weights": "distance",
+            "p": 2
+        },
+        "accuracy": 0.749757281553398
+    }
+]

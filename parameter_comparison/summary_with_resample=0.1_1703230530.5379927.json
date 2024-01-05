@@ -1,0 +1,82 @@
+[
+    {
+        "classifier": "SVC",
+        "params": {
+            "kernel": "linear",
+            "C": 1
+        },
+        "accuracy": 0.8936623516720604
+    },
+    {
+        "classifier": "SVC",
+        "params": {
+            "kernel": "linear",
+            "C": 10
+        },
+        "accuracy": 0.8975728155339806
+    },
+    {
+        "classifier": "SVC",
+        "params": {
+            "kernel": "linear",
+            "C": 12
+        },
+        "accuracy": 0.896628910463862
+    },
+    {
+        "classifier": "SVC",
+        "params": {
+            "kernel": "linear",
+            "C": 15
+        },
+        "accuracy": 0.896628910463862
+    },
+    {
+        "classifier": "SVC",
+        "params": {
+            "kernel": "linear",
+            "C": 20
+        },
+        "accuracy": 0.896628910463862
+    },
+    {
+        "classifier": "SVC",
+        "params": {
+            "kernel": "rbf",
+            "C": 1
+        },
+        "accuracy": 0.7407497303128371
+    },
+    {
+        "classifier": "SVC",
+        "params": {
+            "kernel": "rbf",
+            "C": 10
+        },
+        "accuracy": 0.7424487594390508
+    },
+    {
+        "classifier": "SVC",
+        "params": {
+            "kernel": "rbf",
+            "C": 12
+        },
+        "accuracy": 0.7419633225458468
+    },
+    {
+        "classifier": "SVC",
+        "params": {
+            "kernel": "rbf",
+            "C": 15
+        },
+        "accuracy": 0.7429611650485437
+    },
+    {
+        "classifier": "SVC",
+        "params": {
+            "kernel": "rbf",
+            "C": 20
+        },
+        "accuracy": 0.745118662351672
+    }
+]
